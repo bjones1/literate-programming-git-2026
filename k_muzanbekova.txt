@@ -1,2 +1,4 @@
 Some content present. A change
 Another change
+
+Assignment
